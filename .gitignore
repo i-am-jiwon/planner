@@ -35,3 +35,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Custom ###
+planner_dev.mv.db
+planner_dev.trace.db

@@ -1,0 +1,5 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:h2:./planner_dev;MODE=MYSQL
