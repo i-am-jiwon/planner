@@ -39,3 +39,4 @@ out/
 ### Custom ###
 planner_dev.mv.db
 planner_dev.trace.db
+src/main/resources/application-secret.yml
